@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Jeffrey8835.github.io/readme-zuuhwk/sitemap.xml
